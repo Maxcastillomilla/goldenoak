@@ -1,0 +1,51 @@
+#next1{
+    margin-top: 390px;
+    position: absolute;
+    
+    right: 15px;
+    /* text-align: right; */
+
+
+    /* border: 2px solid #63c2e4; */
+    border-radius: 10px;
+    padding: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    list-style-type: none;
+    
+
+
+    background-color: #c6c6c64e;
+    
+    transition: 1s;
+    
+   
+    
+    
+}
+
+#next1:hover{
+
+    scale: 1.1;
+}
+
+#next2{
+    margin-top: 190px;
+    position: absolute;
+    float: right ;
+    left: 10px;
+    background-image: url(./svg/next2.svg);
+    width: 30px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media screen and (max-width: 900px) {
+
+    
+
+
+
+
+}

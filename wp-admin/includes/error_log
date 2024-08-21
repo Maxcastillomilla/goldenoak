@@ -1,0 +1,80 @@
+[13-Jun-2023 03:59:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home2/kujxxymy/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/admin.php on line 16
+[04-Feb-2024 23:56:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[07-Mar-2024 02:29:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[30-Mar-2024 15:37:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[03-Apr-2024 15:07:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[05-Apr-2024 18:37:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[18-Apr-2024 01:59:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[27-Apr-2024 06:26:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[08-May-2024 09:28:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[10-May-2024 11:51:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[23-May-2024 07:10:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[15-Jun-2024 22:32:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[20-Jun-2024 02:07:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home2/kujxxymy/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/admin.php on line 16
+[26-Jun-2024 12:08:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home2/kujxxymy/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/admin.php on line 16
+[29-Jun-2024 13:35:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home2/kujxxymy/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/admin.php on line 16
+[29-Jun-2024 13:35:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home2/kujxxymy/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/menu.php on line 9
+[29-Jun-2024 13:35:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16
+[30-Jun-2024 02:53:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home2/kujxxymy/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/admin.php on line 16
+[09-Jul-2024 03:06:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home2/kujxxymy/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/admin.php on line 16
+[13-Jul-2024 21:31:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/kujxxymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-admin/includes/file.php on line 16

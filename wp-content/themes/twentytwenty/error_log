@@ -1,0 +1,60 @@
+[09-Jan-2024 05:28:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[09-Jan-2024 06:50:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[09-Jan-2024 09:08:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[09-Jan-2024 09:53:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[10-Jan-2024 23:48:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[11-Jan-2024 17:30:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[15-Jan-2024 14:02:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[16-Jan-2024 00:17:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[22-Jun-2024 02:11:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[22-Jun-2024 10:10:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[24-Jun-2024 17:51:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[26-Jun-2024 22:10:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[30-Jun-2024 02:45:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/functions.php on line 150
+[03-Jul-2024 21:17:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/functions.php on line 150
+[09-Jul-2024 02:39:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home2/kujxxymy/public_html/wp-content/themes/twentytwenty/functions.php on line 150

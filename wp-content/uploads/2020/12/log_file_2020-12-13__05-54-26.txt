@@ -1,0 +1,40 @@
+
+---Downloaded files---
+The import files for: Classic Demo Dark were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://kuj.xxy.mybluehost.me
+Data file = not defined!
+Widget file = /home2/kujxxymy/public_html/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/complete/blacksilver-widgets.json
+Customizer file = /home2/kujxxymy/public_html/wp-content/uploads/2020/12/demo-customizer-import-file_2020-12-13__05-54-26.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Menu Social : 
+
+Blacksilver Social Widget - No Title - Widget already exists
+
+Mobile Social : 
+
+Blacksilver Social Widget - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

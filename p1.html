@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Parallax</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet"> 
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet"> 
+    </head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: block;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+/* .closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+} */
+
+
+@media screen and (max-width: 700px) {
+
+    .container {
+    position: relative;
+    display: block;
+}
+
+
+}
+
+
+
+
+
+
+</style>
+</head>
+<body>
+
+
+
+  <img class="logoblancophone" src = "./svg/logoblanco.svg" style="padding-left: 10%;" >
+
+  <div class="pcmenu" id="nav">
+      <ul style="
+      margin-top: 10px;
+  ">
+
+          <li class="logoblanco" style="margin-right: 14px;"><img  src = "./svg/logoblanco.svg" alt="OAK"/></li>
+
+
+          <li><a href="./home.html">Inicio</a></li>
+        <li class="titulomenu"><a href="./nosotros.html">Quienes Somos</a>
+      
+          <!-- <div class="mcontenido">
+              <a href="#">link1</a>
+              <a href="#">link2</a>
+              <a href="#">link3</a>
+          </div> -->
+      
+      
+      </li>
+        <li class="titulomenu" style="cursor: pointer;"><a >Servicios</a>
+      
+          <div class="mcontenido" >
+              <a href="./residencial.html">Residencial</a>
+              <a href="./empresas.html">Empresarial</a>
+              
+          </div>
+      
+      </li>
+        <li class="titulomenu"><a href="#">Proyectos</a>
+      
+      
+          <div class="mcontenido">
+              <a href="./p1.html">Proyecto 1</a>
+              <a href="./p1.html">Proyecto 2</a>
+              <a href="./p1.html">Proyecto 3</a>
+          </div>
+      
+      
+      </li>
+        <li><a href="./contacto.html">Contacto</a></li>
+        <li class="borde" ><a style="
+          padding-bottom: 10px;
+          padding-top: 10px;
+          margin-top: 10px;
+          margin-left: 20px;
+      " href="#">COTIZA AQUÍ</a></li>
+      </ul>
+  </div>
+
+
+ 
+   
+  <div class="dropdown">
+      <button class="dropdown-btn">
+          <div class="barra"></div>
+          <div class="barra"></div>
+          <div class="barra"></div>
+      </button>
+      <div class="dropdown-content">
+          <a href="./home.html">Nosotros</a>
+          <a href="./nosotros.html">Empresarial</a>
+          <a href="./residencial.html">Residencial</a>
+          <a href="#">Aprende</a>
+          <a href="./contacto.html">Contacto</a>
+          
+      
+      </div>
+  </div>
+
+
+
+
+
+
+
+    <section class="imagenbackgraund">
+        <section class="soloimagen d margen" style="height: 550px;">
+            <div class="parallax img i3"></div>
+            <div class="texto pr">
+
+
+                <div class="mid" style="padding-top: 235px">
+                
+                    <h1 class="titulomedio achicar">Proyecto YS</h1>
+                    <div class="linehcentro" ></div>
+
+                    <h1 class="titulomedio2" style="padding-top: 35px" >Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. </h1>
+                    
+                
+                
+                </div>
+
+
+
+            </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- The four columns -->
+<div class="row" style="background-color: #202020;">
+  <div class="column">
+    <img src="./1.JPG" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="./2.jpeg" alt="Snow" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="./3.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="./4.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="./5.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+  </div>
+</div>
+
+<div class="container">
+  <!-- <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span> -->
+  <img id="expandedImg" style="width: 100%;  " src="./1.JPG">
+  <!-- <div id="imgtext"></div> -->
+</div>
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  /* var imgText = document.getElementById("imgtext"); */
+  expandImg.src = imgs.src;
+  /* imgText.innerHTML = imgs.alt; */
+  expandImg.parentElement.style.display = "block";
+}
+</script>
+
+
+<div style=" height: 75px; ">
+    <h1 class="piepagina">®Golden Oak-Santiago de chile. 2021 All rights reserved - Email: info@goldenoak.cl</h1>
+</div>
+
+
+</body>
+</html>

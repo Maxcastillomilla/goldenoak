@@ -1,0 +1,43 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://kuj.xxy.mybluehost.me
+Data file = /home2/kujxxymy/public_html/wp-content/uploads/2020/12/blacksilver-dark-1.xml
+Widget file = /home2/kujxxymy/public_html/wp-content/uploads/2020/12/blacksilver-widgets-1.json
+Customizer file = /home2/kujxxymy/public_html/wp-content/uploads/2020/12/blacksilver-customizer-dark-1.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Menu Social : 
+
+Blacksilver Social Widget - No Title - Widget already exists
+
+Mobile Social : 
+
+Blacksilver Social Widget - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
