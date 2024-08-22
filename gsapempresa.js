@@ -87,7 +87,7 @@ gsap.to({},{
 
 gsap.to({},{
     scrollTrigger:{
-        start: "top center",
+        start: "top bottom",
         end: "bottom center",
         
         trigger: '#solarservice',
