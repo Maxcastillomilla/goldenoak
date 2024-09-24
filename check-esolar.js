@@ -6,7 +6,7 @@ console.log(document.getElementById("textceleste")) */
 
 
 
-
+/* 
 document.getElementById("slide1").addEventListener('change', function() {
   
   document.getElementById("textceleste").innerText = "TIPOS DE INSTALACIÓN"
@@ -44,7 +44,7 @@ document.getElementById("slide8").addEventListener('change', function() {
 
 
 
-
+ */
 
 
 

@@ -1,6 +1,6 @@
 
 
-
+/* 
 function ScrollParallax(){
 
     let scrollTop = document.getElementById("scrolly").scrollTop;
@@ -10,4 +10,4 @@ function ScrollParallax(){
     console.log(scrollTop)
 }
 
-window.addEventListener('scroll', ScrollParallax);
+window.addEventListener('scroll', ScrollParallax); */

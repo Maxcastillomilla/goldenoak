@@ -176,18 +176,20 @@
   
    
 
-
+    
     <div id="solar2" class="space" style="padding-top: 25px; padding-top: 44vh;">
+
         <iframe onload='resizeIframe(this)' id="solar"  src="./esolar_type1.html" style="width: 100%; margin-top: 20px;  overflow-y: hidden;" frameborder="0"></iframe>
+        <iframe onload='resizeIframe(this)'   src="./esolar_type3.html" style="width: 100%;  min-height: 700px; " frameborder="0"></iframe>
     </div>
     <br>
     <div id="consultoria2" class="space">
         <iframe onload='resizeIframe(this)'  id="consultoria"  src="./esolar_type2.html" style="width: 100%;  height: 410px;" frameborder="0"></iframe>
     </div >
     <br>
-    <div id="solarservice2" class="space" >
+    <!-- <div id="solarservice2" class="space" >
         <iframe onload='resizeIframe(this)' id="solarservice"  src="./esolar_type3.html" style="width: 100%;  min-height: 700px; " frameborder="0"></iframe>
-    </div>
+    </div> -->
     <br>
     <div id="electromovilidad2" class="space"   >
         <iframe onload='resizeIframe(this)' id="electromovilidad"  src="./esolar_type4.html" style="width: 100%;  " frameborder="0"></iframe>
@@ -209,12 +211,12 @@
             <input type="radio" name="user_level" id="rd2" onClick="window.location='#consultoria2'" title="Consultoría"/>
         </div>
 
-        <div>
+        <!-- <div>
             <div class="tooltip pc">
                 <p class="tooltiptext" style="min-width: max-content;">Operación y Mantenimiento</p>
             </div>
             <input type="radio" name="user_level" id="rd3" value="3" onClick="window.location='#solarservice2'" title="Operación y Mantenimiento"/>
-        </div>
+        </div> -->
 
         <div>
             <div class="tooltip pc">
@@ -253,10 +255,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js"></script>
    <script src="./check-esolar.js"></script>
+  
+    <script src="./js/GSDevTools.min.js"></script>
+
+
     <script src="./scrollempresa.js"></script>
     <script src="./gsapempresa.js"></script>
     <script src="./move.js"></script>
-    <script src="./js/GSDevTools.min.js"></script>
 
 
     
