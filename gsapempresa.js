@@ -168,7 +168,7 @@ window.addEventListener('load', function() {
                 document.getElementById("subtitulo").innerHTML = "Suma a tu empresa al combate contra el cambio climático y disminuye tu gasto eléctrico en el proceso"
                 document.getElementById("image").style.backgroundImage = "url(./imagenes/esportada.jpg)"
                 document.getElementById("rd1").checked = true;
-                document.documentElement.style.setProperty('--altura', '24vh');
+                /* document.documentElement.style.setProperty('--altura', '24vh'); */
                 },
                 
             
